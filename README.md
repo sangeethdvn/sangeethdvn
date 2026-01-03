@@ -15,4 +15,3 @@ Building dynamic resume tooling with real-time previews at Catalyst ERP Software
 ## How to reach me?
 - Email: sangeethdvn@gmail.com
 - LinkedIn: [p-s-sangeeth-devan-](https://www.linkedin.com/in/p-s-sangeeth-devan-/)
-- GitHub: [@sangeethdvn](https://github.com/sangeethdvn)
