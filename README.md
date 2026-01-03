@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm K P Sangeeth Devan 👋
 
-<!--
-**sangeethdvn/sangeethdvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+Python full-stack developer focused on crafting reliable Django apps, polished APIs, and user-first product experiences.
 
-Here are some ideas to get you started:
+## What am I currently working on?
+Building dynamic resume tooling with real-time previews at Catalyst ERP Software Solution, while exploring resilient backend architectures that balance performance and readability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What tools do I use?
+- Languages: Python, JavaScript, SQL
+- Frameworks: Django, Django REST Framework, Tailwind CSS, Bootstrap
+- Databases: PostgreSQL, MySQL, SQLite
+- Tooling: GitHub, Postman, VS Code, Docker
+
+## How to reach me?
+- Email: sangeethdvn@gmail.com
+- LinkedIn: [p-s-sangeeth-devan-](https://www.linkedin.com/in/p-s-sangeeth-devan-/)
+- GitHub: [@sangeethdvn](https://github.com/sangeethdvn)
