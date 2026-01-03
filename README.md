@@ -1,4 +1,4 @@
-# Hi, I'm K P Sangeeth Devan 👋
+# Hi, I'm P S Sangeeth Devan 👋
 
 ## Who am I?
 Python full-stack developer focused on crafting reliable Django apps, polished APIs, and user-first product experiences.
